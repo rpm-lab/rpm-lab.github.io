@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Robotics: Perception and Manipulation (RPM) Lab
 
 This is the website of our academic research group at Leiden University.
 
