@@ -5,35 +5,35 @@
   link:
     url: https://arxiv.org/abs/2205.10346
     display: arXiv:2205.10346 (2022)
-  highlight: 1
-
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
-  highlight: 1
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
   highlight: 0
-  news2:
+
+# - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
+#   image: BSCCOgap.png
+#   description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
+#   authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+#   link:
+#     url: https://arxiv.org/abs/2205.09740
+#     display: arXiv:2205.09740 (2022)
+#   highlight: 0
+
+# - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+#   image: Pairs3.png
+#   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+#   authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+#   link:
+#     url: https://www.science.org/doi/10.1126/science.abe3987
+#     display: Science 374, 608 (2021)
+#   highlight: 0
+#   news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+#   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+
+# - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+#   image: TBG_SL.png
+#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+#   authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+#   link:
+#     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+#     display:  arXiv:2107.14716 (2021)
+#   highlight: 0
+#   news2:
 
