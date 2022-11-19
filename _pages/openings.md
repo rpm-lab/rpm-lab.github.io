@@ -7,35 +7,53 @@ permalink: /vacancies
 ---
 
 # Open positions
+*** We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for. ***
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+## Ph.D positions 
+My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
 
-We are  looking for new group members with passion, talent, and grit!
+We focus on addressing the fundamental question of “What should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+- How can a robot perceive and reason about objects in the human environment?
+- How can a robot interact with these objects?
+- How can a robot compose its interactive skills into performing meaningful tasks?
+- How can a robot learn to do all of the above toward seamless interaction and task execution?
 
-### Past open positions
+We are interested in application domains (healthcare, climate change, etc.) where our research solutions can make a huge impact. 
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+To answer the above research questions, the lab is interested in a wide range of research topics, such as:
+- _Object Perception, Active Perception, Interactive Perception, Tactile Sensing, Multimodal Sensing, Sensor Fusion, 3D Vision, Neural Rendering, Implicit Modeling of Objects, Probabilistic Graphical Models, and Bayesian Inference._
+- _Grasp Detection, Grasp Planning, Manipulation Planning and Control, Dual-arm Manipulation, and Mobile-manipulation._
+- _Deep Learning, Self-supervised Learning, Object Representation Learning, Imitation Learning, and Learning from Demonstrations._
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### We are looking for some combination of the following technical skills:
+Proficiency in Linux, 
+Proficiency in one of the programming languages (C++, Python), 
+Experience with Pytorch or TensorFlow, CUDA programming
+Experience with ROS, Gazebo, Pybullet, other simulation environments
+Experience working on the real sensor(s) or robot(s).
+Experience with Blender or other designing tools.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+Interested candidates must apply through the CS&E admission portal (https://cse.umn.edu/cs/phd-admissions) and mention Prof. Karthik Desingh as an advisor. 
+- For fellowship considerations, the application deadline is **Dec 15, 2022**. 
+- The general application deadline is **Jan 5, 2023**. 
+
+Applicants are encouraged to include a link to their personal website, project pages, GitHub code, and any multimedia supporting the projects in their CV. Candidates with relevant experience in the abovementioned areas and a healthy publication record are encouraged to apply. However, a strong preference will be given to candidates with publications (in the following or other similar venues: RSS, ICRA, CoRL, IROS, CVPR, ICCV, NeurIPS, ICLR, etc.) and-or experience in working with real robotic systems. 
+
+In addition to researching on some of the most compelling problems in robotics, computer vision, and machine learning, successful applicants can expect to 
+- Collaborate closely with other research groups affiliated with the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri).
+- Collaborate with industrial research partners.
+- Gain experience in teaching advanced topics in robotics and AI.
+- Gain experience in leading research projects with a team of students.
+
+## Master research positions
+If you are a Master student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reachout to you if we have a research project that matches with your application. 
+Currently, we do not having funding for research assistantship for Master students. We highly encourage students to apply either for a capstone project or a Masters thesis project. 
+
+## Undergraduate research positions
+If you are an undergraduate student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reachout to you if we have a research project that matches with your application. Currently, we do not having funding for research assistantship for undergraduate students. We highly encourage students to apply either for a directed/independent research credit, where you will work on a project with a graduate student. 
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
+<!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
