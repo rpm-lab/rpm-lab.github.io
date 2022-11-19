@@ -8,7 +8,12 @@ permalink: /
 
 Welcome to the home page of the Robotics: Perception and Manipulation (RPM) Lab in the [College of Engineering](https://cse.umn.edu/) at the [University of Minnesota - Twin Cities]([http://www.physics.leidenuniv.nl](https://twin-cities.umn.edu/)).
 
-We are located at 2-216 Kenneth H. Keller Hall, 200 Union St SE, Minneapolis, MN 55455.
+We focus on addressing the fundamental question of “What should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
+- How can a robot perceive and reason about objects in the human environment?
+- How can a robot interact with these objects?
+- How can a robot compose its interactive skills into performing meaningful tasks?
+- How can a robot learn to do all of the above toward seamless interaction and task execution?
 
-<!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
- -->
+We are interested in application domains (healthcare, climate change, etc.) where our research solutions can make a huge impact. 
+
+**We are  looking for passionate new PhD students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
