@@ -7,12 +7,14 @@ permalink: /vacancies
 ---
 
 # Open positions
-*** We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for. ***
+
+**We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.
+**
 
 ## Ph.D positions 
 My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
 
-We focus on addressing the fundamental question of “What should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
+We focus on addressing the fundamental question of “what should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
 
 - How can a robot perceive and reason about objects in the human environment?
 - How can a robot interact with these objects?
@@ -26,15 +28,15 @@ To answer the above research questions, the lab is interested in a wide range of
 - _Grasp Detection, Grasp Planning, Manipulation Planning and Control, Dual-arm Manipulation, and Mobile-manipulation._
 - _Deep Learning, Self-supervised Learning, Object Representation Learning, Imitation Learning, and Learning from Demonstrations._
 
-### We are looking for some combination of the following technical skills:
-Proficiency in Linux, 
-Proficiency in one of the programming languages (C++, Python), 
-Experience with Pytorch or TensorFlow, CUDA programming
-Experience with ROS, Gazebo, Pybullet, other simulation environments
-Experience working on the real sensor(s) or robot(s).
-Experience with Blender or other designing tools.
+**We are looking for some combination of the following technical skills:**
+- Proficiency in Linux, 
+- Proficiency in one of the programming languages (C++, Python), 
+- Experience with Pytorch or TensorFlow, CUDA programming
+- Experience with ROS, Gazebo, Pybullet, other simulation environments
+- Experience working on the real sensor(s) or robot(s).
+- Experience with Blender or other designing tools.
 
-Interested candidates must apply through the CS&E admission portal (https://cse.umn.edu/cs/phd-admissions) and mention Prof. Karthik Desingh as an advisor. 
+Interested candidates must apply through the CS&E admission portal [https://cse.umn.edu/cs/phd-admissions](https://cse.umn.edu/cs/phd-admissions) and mention Prof. Karthik Desingh as a potential advisor. 
 - For fellowship considerations, the application deadline is **Dec 15, 2022**. 
 - The general application deadline is **Jan 5, 2023**. 
 
@@ -47,11 +49,11 @@ In addition to researching on some of the most compelling problems in robotics, 
 - Gain experience in leading research projects with a team of students.
 
 ## Master research positions
-If you are a Master student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reachout to you if we have a research project that matches with your application. 
-Currently, we do not having funding for research assistantship for Master students. We highly encourage students to apply either for a capstone project or a Masters thesis project. 
+If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a research project that matches your skills. 
+Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (more than a semester duration). 
 
 ## Undergraduate research positions
-If you are an undergraduate student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reachout to you if we have a research project that matches with your application. Currently, we do not having funding for research assistantship for undergraduate students. We highly encourage students to apply either for a directed/independent research credit, where you will work on a project with a graduate student. 
+If you are an undergraduate student at the University of Minnesota and want to gain research experience toward graduate school application in the future semester in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skillsets. We encourage you to look into [UROP](https://ugresearch.umn.edu/opportunities/urop) and [REU](https://www.nsf.gov/crssprgm/reu/) programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student. 
 
 
 <!-- <figure>
