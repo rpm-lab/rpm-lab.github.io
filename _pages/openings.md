@@ -6,12 +6,12 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+## Open positions
 
 **We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.**
 
 
-## Ph.D positions 
+### Ph.D positions 
 My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
 
 We focus on addressing the fundamental question of “what should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
@@ -48,11 +48,11 @@ In addition to researching on some of the most compelling problems in robotics, 
 - Gain experience in teaching advanced topics in robotics and AI.
 - Gain experience in leading research projects with a team of students.
 
-## Master research positions
+### Master research positions
 If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a research project that matches your skills. 
 Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (more than a semester duration). 
 
-## Undergraduate research positions
+### Undergraduate research positions
 If you are an undergraduate student at the University of Minnesota and want to gain research experience toward graduate school application in the future semester in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skillsets. We encourage you to look into [UROP](https://ugresearch.umn.edu/opportunities/urop) and [REU](https://www.nsf.gov/crssprgm/reu/) programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student. 
 
 
