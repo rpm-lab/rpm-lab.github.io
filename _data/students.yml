@@ -12,25 +12,49 @@
 
 - name: Chahyon Ku
   photo: chahyonku.jpeg
-  info: MS in Robotics student [Research Assistant]
+  info: MS student in Robotics
   email: ku000045@umn.edu
-  number_educ: 2
+  number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
 
 - name: Carl Winge
   photo: carlwinge.jpeg
-  info: MS in Robotics student [Research Assistant]
+  info: MS student in Robotics
   email: winge134@umn.edu
-  number_educ: 2
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
+- name: Roman Woolery
+  photo: romanwoolery.jpeg
+  info: MS student in Robotics
+  email: woole022@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
+- name: Miles Priebe
+  photo: milespriebe.jpeg
+  info: MS student in Robotics
+  email: prieb038@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
+- name: Aaron Fernandes
+  photo: aaronfernandes.jpeg
+  info: MS student in Robotics
+  email: ferna437@umn.edu
+  number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
 
 - name: Athreyi Badithela
   photo: athreyibadithela.jpg
-  info: UG student CS&E [Undergraduate Research Assitant]
+  info: UG student in CS&E 
   email: badit004@umn.edu
-  number_educ: 2
+  number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:
   education3:
