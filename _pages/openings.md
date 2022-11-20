@@ -14,14 +14,13 @@ permalink: /vacancies
 ### Ph.D positions 
 My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
 
-We focus on addressing the fundamental question of “what should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
+We focus on addressing the fundamental question of _**“What should/does/can a physical object in our environment mean to a robot?”**_ thus leading to the following research questions.
+- _How can a robot perceive and reason about objects in the human environment?_
+- _How can a robot interact with these objects?_
+- _How can a robot compose its interactive skills into performing meaningful tasks?_
+- _How can a robot learn to do all of the above toward seamless interaction and task execution?_
 
-- How can a robot perceive and reason about objects in the human environment?
-- How can a robot interact with these objects?
-- How can a robot compose its interactive skills into performing meaningful tasks?
-- How can a robot learn to do all of the above toward seamless interaction and task execution?
-
-We are interested in application domains (healthcare, climate change, etc.) where our research solutions can make a huge impact. 
+We are interested in application domains (healthcare, climate change, etc.) where our research solutions can make a huge impact.  
 
 To answer the above research questions, the lab is interested in a wide range of research topics, such as:
 - _Object Perception, Active Perception, Interactive Perception, Tactile Sensing, Multimodal Sensing, Sensor Fusion, 3D Vision, Neural Rendering, Implicit Modeling of Objects, Probabilistic Graphical Models, and Bayesian Inference._
