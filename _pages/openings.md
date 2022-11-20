@@ -8,8 +8,8 @@ permalink: /vacancies
 
 # Open positions
 
-**We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.
-**
+**We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.**
+
 
 ## Ph.D positions 
 My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
