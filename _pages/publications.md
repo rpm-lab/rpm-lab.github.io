@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
 <!-- ## Group highlights
 
@@ -57,7 +57,7 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
-## Full List of publications
+### Full List of publications
 Coming soon...
 
 Please refer to [Karthik Desingh's list of publications](https://karthikdesingh.com/#pubs).
