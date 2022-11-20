@@ -17,7 +17,8 @@ $gray-darker:            lighten($maroon, 13.5%) !default; // #222
 $gray-dark:              lighten($maroon, 20%) !default;   // #333
 $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 60%) !default;   // #999
-$gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+// $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+$gray-lighter:           #ffde7a !default; // #eee
 
 // $maroon-base:              #7a0019 !default;
 
