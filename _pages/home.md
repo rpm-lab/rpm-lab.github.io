@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the home page of the Robotics: Perception and Manipulation (RPM) Lab at the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/).
+Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab at the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/).
 
 We focus on addressing the fundamental question of “What should/does/can a physical object in our environment mean to a robot?” thus leading to the following research questions.
 - How can a robot perceive and reason about objects in the human environment?
