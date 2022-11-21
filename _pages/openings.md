@@ -12,7 +12,7 @@ permalink: /vacancies
 
 
 ### Ph.D positions ([apply here](https://cse.umn.edu/cs/phd-admissions))
-The[Robotics, Perception, and Manipulation (RPM) Lab]({{site.url}}) at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions in the Fall of 2023.
+The [Robotics, Perception, and Manipulation (RPM) Lab]({{site.url}}) at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions in the Fall of 2023.
 
 We focus on addressing the fundamental question of _**“What should/does/can a physical object in our environment mean to a robot?”**_ thus leading to the following research questions.
 - _How can a robot perceive and reason about objects in the human environment?_
