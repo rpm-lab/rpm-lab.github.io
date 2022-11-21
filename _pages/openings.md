@@ -11,8 +11,8 @@ permalink: /vacancies
 **We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.**
 
 
-### Ph.D positions 
-My research lab, “Robotics, Perception, and Manipulation (RPM) Lab” at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions starting Fall 2023.
+### Ph.D positions ([apply here](https://cse.umn.edu/cs/phd-admissions))
+The[Robotics, Perception, and Manipulation (RPM) Lab]({{site.url}}) at the University of Minnesota-Twin Cities, is looking to fill multiple Ph.D. positions in the Fall of 2023.
 
 We focus on addressing the fundamental question of _**“What should/does/can a physical object in our environment mean to a robot?”**_ thus leading to the following research questions.
 - _How can a robot perceive and reason about objects in the human environment?_
@@ -20,7 +20,7 @@ We focus on addressing the fundamental question of _**“What should/does/can a 
 - _How can a robot compose its interactive skills into performing meaningful tasks?_
 - _How can a robot learn to do all of the above toward seamless interaction and task execution?_
 
-We are interested in application domains (healthcare, climate change, etc.) where our research solutions can make a huge impact.  
+We are interested in application domains (healthcare, climate change, agriculture, etc.) where our research solutions can make a huge impact.  
 
 To answer the above research questions, the lab is interested in a wide range of research topics, such as:
 - _Object Perception, Active Perception, Interactive Perception, Tactile Sensing, Multimodal Sensing, Sensor Fusion, 3D Vision, Neural Rendering, Implicit Modeling of Objects, Probabilistic Graphical Models, and Bayesian Inference._
@@ -47,12 +47,14 @@ In addition to researching on some of the most compelling problems in robotics, 
 - Gain experience in teaching advanced topics in robotics and AI.
 - Gain experience in leading research projects with a team of students.
 
-### Master research positions
-If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a research project that matches your skills. 
-Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (more than a semester duration). 
+### Master's research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
+If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skills. 
+Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (typically 1 year duration). 
 
-### Undergraduate research positions
-If you are an undergraduate student at the University of Minnesota and want to gain research experience toward graduate school application in the future semester in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skillsets. We encourage you to look into [UROP](https://ugresearch.umn.edu/opportunities/urop) and [REU](https://www.nsf.gov/crssprgm/reu/) programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student. 
+### Undergraduate research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
+If you are an undergraduate student at the University of Minnesota and would like to gain research experience toward graduate school application in the future semesters, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skillsets. For funding please look into [UROP](https://ugresearch.umn.edu/opportunities/urop) and [REU](https://www.nsf.gov/crssprgm/reu/) programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student. 
+
+
 
 
 <!-- <figure>
