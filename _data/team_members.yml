@@ -1,17 +1,19 @@
 - name: Karthik Desingh
   photo: karthikdesingh.jpeg
-  info: Assistant Professor, started Aug 2022
+  info: Assistant Professor
+  web: https://karthikdesingh.com/
   email: kdesingh@umn.edu
-  number_educ: 1
+  number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
   education3: 
 
 - name: Bahaa Aldeeb
   photo: bahaaaldeeb.jpeg
-  info: Research Staff, started Sept 2022
+  info: Research Staff
+  web: https://baldeeb.github.io/
   email: baldeeb@umn.edu
-  number_educ: 1
+  number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
   education3: 
