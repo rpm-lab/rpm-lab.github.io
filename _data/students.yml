@@ -49,6 +49,14 @@
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
+  
+- name: Nirmal Raj
+  photo: nirmalraj.jpeg
+  info: MS student in Robotics
+  email: raj00033@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:   
 
 - name: Athreyi Badithela
   photo: athreyibadithela.jpg
@@ -59,6 +67,17 @@
   education2:
   education3:
   education4:
+  
+- name: Ryan Diaz
+  photo: ryandiaz.jpg
+  info: UG student in CS&E 
+  email: diaz0329@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:  
+  
   
 # - name: Thijs van den Munckhof
 #   photo: rock.jpg
