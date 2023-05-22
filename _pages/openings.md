@@ -9,6 +9,7 @@ permalink: /vacancies
 ## Open positions
 
 **We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.**
+
 <!-- 
 
 ### Ph.D positions ([apply here](https://cse.umn.edu/cs/phd-admissions))
@@ -45,7 +46,8 @@ In addition to researching on some of the most compelling problems in robotics, 
 - Collaborate closely with other research groups affiliated with the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri).
 - Collaborate with industrial research partners.
 - Gain experience in teaching advanced topics in robotics and AI.
-- Gain experience in leading research projects with a team of students. -->
+- Gain experience in leading research projects with a team of students. 
+-->
 
 ### Master's research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
 If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skills. 
