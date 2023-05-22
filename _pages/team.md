@@ -92,10 +92,10 @@ Jump to [staff](#staff) and [master and bachelor students](#master-and-bachelor-
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} 
-  <ul style="overflow: hidden">
-
+  <i>{{ member.info }}
+  
   <i><a href="{{ member.web }}">Home page</a>
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
