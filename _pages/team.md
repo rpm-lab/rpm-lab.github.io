@@ -129,11 +129,11 @@ Jump to [staff](#staff) and [master and bachelor students](#master-and-bachelor-
 {% endif %}
 
 {% endfor %}
-
+<!-- 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ### Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -181,12 +181,12 @@ Jump to [staff](#staff) and [master and bachelor students](#master-and-bachelor-
 </div>
 {% endif %}
 
-{% endfor %}
+<!-- {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ### Current Active External Collaborators
 {% assign number_printed = 0 %}
@@ -234,12 +234,12 @@ Jump to [staff](#staff) and [master and bachelor students](#master-and-bachelor-
 </div>
 {% endif %}
 
-{% endfor %}
+<!-- {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 ## Alumni
@@ -268,12 +268,12 @@ Jump to [staff](#staff) and [master and bachelor students](#master-and-bachelor-
 </div>
 {% endif %}
 
-{% endfor %}
+<!-- {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 <!-- ## Former visitors, BSc/ MSc students
 <div class="row">
