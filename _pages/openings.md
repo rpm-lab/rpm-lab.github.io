@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ## Open positions
 
-**We are always looking to work with talented students and researchers all around the world. Please read further and see if any of these categories fit the role you are looking to apply for.**
+**We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.**
 <!-- 
 
 ### Ph.D positions ([apply here](https://cse.umn.edu/cs/phd-admissions))
@@ -50,6 +50,7 @@ In addition to researching on some of the most compelling problems in robotics, 
 ### Master's research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
 If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skills. 
 Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (typically 1 year duration). 
+
 **We are looking for some combination of the following technical skills:**
 - Proficiency in Linux, 
 - Proficiency in one of the programming languages (C++, Python), 
