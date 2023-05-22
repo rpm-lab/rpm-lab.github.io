@@ -50,6 +50,13 @@ In addition to researching on some of the most compelling problems in robotics, 
 ### Master's research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
 If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skills. 
 Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (typically 1 year duration). 
+**We are looking for some combination of the following technical skills:**
+- Proficiency in Linux, 
+- Proficiency in one of the programming languages (C++, Python), 
+- Experience with Pytorch or TensorFlow, CUDA programming
+- Experience with ROS, Gazebo, Pybullet, other simulation environments
+- Experience working on the real sensor(s) or robot(s).
+- Experience with Blender or other designing tools.
 
 ### Undergraduate research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
 If you are an undergraduate student at the University of Minnesota and would like to gain research experience toward graduate school application in the future semesters, please look into this [webpage](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skillsets. For funding please look into [UROP](https://ugresearch.umn.edu/opportunities/urop) and [REU](https://www.nsf.gov/crssprgm/reu/) programs. We highly encourage students to apply for a directed/independent research credit, where they will work on a project with a graduate student. 
