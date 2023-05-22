@@ -12,7 +12,7 @@
 
 - name: Chahyon Ku
   photo: chahyonku.jpeg
-  info: MS student in Robotics
+  info: MS student in Robotics (thesis)
   email: ku000045@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -20,7 +20,7 @@
 
 - name: Carl Winge
   photo: carlwinge.jpeg
-  info: MS student in Robotics
+  info: MS student in Robotics (thesis)
   email: winge134@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -28,7 +28,7 @@
 
 - name: Miles Priebe
   photo: milespriebe.jpeg
-  info: MS student in Robotics
+  info: MS student in Robotics (capstone project)
   email: prieb038@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -36,7 +36,7 @@
 
 - name: Aaron Fernandes
   photo: aaronfernandes.jpeg
-  info: MS student in Robotics
+  info: MS student in Robotics (capstone project)
   email: ferna437@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -46,6 +46,14 @@
   photo: nirmalraj.jpeg
   info: MS student in Robotics
   email: raj00033@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:   
+
+- name: Amarachi Nzeukwu
+  photo: amarachi.jpeg
+  info: MS student in Robotics (capstone project)
+  email: nzeuk001@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:   

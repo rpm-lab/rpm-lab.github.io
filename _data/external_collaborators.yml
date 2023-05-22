@@ -1,0 +1,20 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+
+- name: Thomas Kaminsky
+  photo: thomaskaminsky.jpeg
+  info: UG student in Math \& Computer Science
+  email: tkaminsky@college.harvard.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
