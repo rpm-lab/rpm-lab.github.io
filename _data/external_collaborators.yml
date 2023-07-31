@@ -12,9 +12,26 @@
 
 - name: Thomas Kaminsky
   photo: thomaskaminsky.jpeg
-  info: UG student in Math & Stats at Harvard University
+  info: UG student in Math & Stats at Harvard University (2023-)
   email: tkaminsky@college.harvard.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
+
+- name: Revanth Krishna
+photo: revanthkrishna.jpeg
+info: UG student in Computer Engineering at Purdue University (REU 2023)
+email: senthilr@purdue.edu
+number_educ: 0
+education1: Robotics
+education2: 
+
+- name: Duc Hoa Nguyen
+  photo: nguyen.jpeg
+  info: UG student in Computer Engineering at UCLA (REU 2023)
+  email: kainguyen@g.ucla.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
 

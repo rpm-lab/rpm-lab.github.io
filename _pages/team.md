@@ -189,7 +189,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Current Active External Collaborators
+### External Collaborators
 
 {% assign number_printed = 0 %}
 {% for member in site.data.external_collaborators %}
