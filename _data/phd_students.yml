@@ -29,10 +29,10 @@
   education2: 
 
 - name: Xun Tu
-photo: xun.jpeg
-info: Ph.D. student in CS
-email: tu000080@umn.edu
-web: https://www.txramsey.com/
-number_educ: 0
-education1: Robotics, Perception, Manipulation, Learning
-education2: 
+  photo: xun.jpeg
+  info: Ph.D. student in CS
+  email: tu000080@umn.edu
+  web: https://www.txramsey.com/
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation, Learning
+  education2: 
