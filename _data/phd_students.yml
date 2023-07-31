@@ -19,3 +19,20 @@
   education1: Robotics, Perception, Manipulation
   education2: 
 
+- name: Guanang (Shirley) Su
+  photo: shirley.jpeg
+  info: Ph.D. student in CS
+  email: su000265@umn.edu
+  web: https://xxs90.github.io/
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation, Learning
+  education2: 
+
+  - name: Xun Tu
+  photo: xun.jpeg
+  info: Ph.D. student in CS
+  email: tu000080@umn.edu
+  web: https://www.txramsey.com/
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation, Learning
+  education2: 
