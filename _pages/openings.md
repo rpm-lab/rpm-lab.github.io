@@ -10,6 +10,41 @@ permalink: /vacancies
 
 **We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.**
 
+### Fellowship Positions via NGI Enrichers Program ([apply here](https://enrichers.ngi.eu/host/university-of-minnesota-twin-cities-%f0%9f%87%ba%f0%9f%87%b8/))  
+The [Robotics, Perception, and Manipulation (RPM) Lab]({{site.url}}) at the University of Minnesota-Twin Cities, is interested in hosting 1-2 Fellows as part of the [NGI Enrichers Program](https://enrichers.ngi.eu/).
+
+We focus on addressing the fundamental question of _**“What should/does/can a physical object in our environment mean to a robot?”**_ thus leading to the following research questions.
+- _How can a robot perceive and reason about objects in the human environment?_
+- _How can a robot interact with these objects?_
+- _How can a robot compose its interactive skills into performing meaningful tasks?_
+- _How can a robot learn to do all of the above toward seamless interaction and task execution?_
+
+We are interested in application domains (healthcare, climate change, agriculture, etc.) where our research solutions can make a huge impact.  
+
+To answer the above research questions, the lab is interested in a wide range of research topics, such as:
+- _Object Perception, Active Perception, Interactive Perception, Tactile Sensing, Multimodal Sensing, Sensor Fusion, 3D Vision, Neural Rendering, Implicit Modeling of Objects, Probabilistic Graphical Models, and Bayesian Inference._
+- _Grasp Detection, Grasp Planning, Manipulation Planning and Control, Dual-arm Manipulation, and Mobile-manipulation._
+- _Deep Learning, Self-supervised Learning, Object Representation Learning, Imitation Learning, and Learning from Demonstrations._
+
+**We are looking for some combination of the following technical skills:**
+- Proficiency in Linux, 
+- Proficiency in one of the programming languages (C++, Python), 
+- Experience with Pytorch or TensorFlow, CUDA programming
+- Experience with ROS, Gazebo, Pybullet, other simulation environments
+- Experience working on the real sensor(s) or robot(s).
+- Experience with Blender or other designing tools.
+
+Interested candidates must apply directly from the [NGI Enrichers program portal](https://enrichers.ngi.eu/apply-here/) and mention Prof. Karthik Desingh as a potential advisor. 
+- Application deadline is **Sept 30, 2023**. 
+
+Applicants are encouraged to include a link to their personal website, project pages, GitHub code, and any multimedia supporting the projects in their CV. Candidates with relevant experience in the abovementioned areas and a healthy publication record are encouraged to apply. However, a strong preference will be given to candidates with publications (in the following or other similar venues: RSS, ICRA, CoRL, IROS, CVPR, ICCV, NeurIPS, ICLR, etc.) and-or experience in working with real robotic systems. 
+
+In addition to researching on some of the most compelling problems in robotics, computer vision, and machine learning, successful applicants can expect to 
+- Collaborate closely with other research groups affiliated with the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri).
+- Collaborate with industrial research partners.
+- Gain experience in teaching advanced topics in robotics and AI.
+- Gain experience in leading research projects with a team of students.
+
 <!-- 
 
 ### Ph.D positions ([apply here](https://cse.umn.edu/cs/phd-admissions))
