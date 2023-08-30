@@ -66,6 +66,13 @@
   education1: Robotics, Perception, Manipulation
   education2:
 
+- name: Michael Andrev
+  photo: michaelandrev.jpeg
+  info: MS student in Computer Science (directed research)
+  email: andr0821@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
 
 - name: Athreyi Badithela
   photo: athreyibadithela.jpg
@@ -130,7 +137,7 @@
 
 - name: Matt He 
   photo: matthe.jpg
-  info: UG student in CS&E (summer researche, summer 23')
+  info: UG student in CS&E (summer researcher, summer 23')
   email: he000295@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
