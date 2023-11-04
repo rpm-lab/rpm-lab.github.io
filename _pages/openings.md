@@ -10,7 +10,7 @@ permalink: /vacancies
 
 **We are always looking to work with talented students and researchers all around the world from diverse backgrounds. Please read further and see if any of these categories fit the role you are looking to apply for.**
 
-### Fellowship Positions via NGI Enrichers Program ([apply here](https://enrichers.ngi.eu/host/university-of-minnesota-twin-cities-%f0%9f%87%ba%f0%9f%87%b8/))  
+<!-- ### Fellowship Positions via NGI Enrichers Program ([apply here](https://enrichers.ngi.eu/host/university-of-minnesota-twin-cities-%f0%9f%87%ba%f0%9f%87%b8/))  
 The [Robotics, Perception, and Manipulation (RPM) Lab]({{site.url}}) at the University of Minnesota-Twin Cities, is interested in hosting 1-2 Fellows as part of the [NGI Enrichers Program](https://enrichers.ngi.eu/).
 
 We focus on addressing the fundamental question of _**“What should/does/can a physical object in our environment mean to a robot?”**_ thus leading to the following research questions.
@@ -43,7 +43,7 @@ In addition to researching on some of the most compelling problems in robotics, 
 - Collaborate closely with other research groups affiliated with the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri).
 - Collaborate with industrial research partners.
 - Gain experience in teaching advanced topics in robotics and AI.
-- Gain experience in leading research projects with a team of students.
+- Gain experience in leading research projects with a team of students. -->
 
 <!-- 
 
