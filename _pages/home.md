@@ -61,3 +61,5 @@ We focus on addressing the fundamental question of _**“What should/does/can a 
 We are interested in application domains (healthcare, climate change, agriculture, etc.) where our research solutions can make a huge impact. 
 
 **We are  looking for passionate new students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=3e5QKCdmb7Q&list=PLTsIawN-nKXLhZiJB8Ry0LDiD4CObrAZk" frameborder="0" allowfullscreen></iframe>
