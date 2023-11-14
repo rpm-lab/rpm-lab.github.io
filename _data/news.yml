@@ -1,5 +1,14 @@
 # - data: 08. Nov 2022
 #   headline: "Karthik will be teaching CSCI 5980-02: Deep Learning for Robot Perception and Manipulation in the Spring 2023."
+- date: 17. Nov 2023
+  headline: "Karthik is co-organizing [Minnesota Robotics Institute (MnRI) Research Showcase - 2023](https://sites.google.com/umn.edu/mnri-2023-research-showcase/)."
+
+- date: 06. Nov 2023
+  headline: "Bahaa Aldeeb presents his recent work on - [GANOCS: Domain Adaptation of Normalized Object Coordinate Prediction Using Generative Adversarial Training](https://baldeeb.github.io/assets/pdf/CoRL_2023___Out_of_Distribution_Generalization_in_Robotics.pdf) at [Out-of-Distribution Generalization in Robotics Workshop @ CoRL 2023](https://sites.google.com/stanford.edu/corl2023ood/home)."
+
+- date: 06. Nov 2023
+  headline: "Chahyon Ku presents his recent work on - [Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning](https://www.youtube.com/watch?v=3e5QKCdmb7Q) at [Pretraining for Robotics Workshop @ CoRL 2023](https://sites.google.com/view/corl2023-prl)."
+
 - date: 07. Sept 2023
   headline: "Karthik and Alireza will co-organize a workshop - [NeuRL-RMW: Workshop for Neural Representation Learning for Robot Manipulation](https://neurl-rmw.github.io/) at [CoRL2023](https://neurl-rmw.github.io/) conference in November."
 
