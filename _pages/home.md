@@ -62,4 +62,4 @@ We are interested in application domains (healthcare, climate change, agricultur
 
 **We are  looking for passionate new students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=3e5QKCdmb7Q&list=PLTsIawN-nKXLhZiJB8Ry0LDiD4CObrAZk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=HLXzsobvgO2kZWnN&amp;list=PLTsIawN-nKXLhZiJB8Ry0LDiD4CObrAZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
