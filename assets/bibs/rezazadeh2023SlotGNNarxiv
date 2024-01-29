@@ -1,0 +1,8 @@
+@misc{rezazadeh2023slotgnn,
+      title={SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics}, 
+      author={Alireza Rezazadeh and Athreyi Badithela and Karthik Desingh and Changhyun Choi},
+      year={2023},
+      eprint={2310.04617},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}

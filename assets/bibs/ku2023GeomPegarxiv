@@ -1,0 +1,8 @@
+@misc{ku2023evaluating,
+      title={Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning}, 
+      author={Chahyon Ku and Carl Winge and Ryan Diaz and Wentao Yuan and Karthik Desingh},
+      year={2023},
+      eprint={2310.09943},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}

@@ -9,6 +9,46 @@ permalink: /publications/
 
 ## Publications
 
+### 2023
+
+<table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
+
+<tr>
+	<td>
+		<center><img src='images/publications/slotGNN_Rezazadeh_et_al_arXiv_2023.png' width=250></center>
+		
+	</td>
+	<td>
+		Alireza Rezazadeh, Athreyi Badithela, <b>Karthik Desingh</b>, Changhyun Choi<br/>
+		<i>"SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics,"</i><br/>
+		<b>Accepted ICRA 2024.</b><br/>
+		[<a href='assets/bibs/rezazadeh2023SlotGNNarxiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2310.04617.pdf'>Arxiv</a>] &nbsp;
+		[<a href='https://www.youtube.com/watch?v=0fZBY5bMh3Q'>Video</a>] &nbsp;
+		[<a href='https://www.alireza.page/slot-gnn'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+
+<tr>
+	<td>
+		<center><img src='images/publications/geom_peg_Ku_et_al_arXiv_2023.jpeg' width=250></center>
+		
+	</td>
+	<td>
+		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, <b>Karthik Desingh</b><br/>
+		<i>"Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning,"</i><br/>
+		<b>Accepted ICRA 2024.</b><br/>
+		[<a href='assets/bibs/ku2023GeomPegarxiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2310.09943.pdf'>Arxiv</a>] &nbsp;
+		[<a href='https://www.youtube.com/watch?v=3e5QKCdmb7Q'>Video</a>] &nbsp;
+		[<a href='https://sites.google.com/view/geometric-peg-in-hole/home'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+</table>
+
 <!-- ## Group highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
@@ -58,9 +98,8 @@ permalink: /publications/
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
 ### Full List of publications
-Coming soon...
 
-Please refer to [Karthik Desingh's list of publications](https://karthikdesingh.com/#pubs).
+Please refer to [Karthik Desingh's list of publications](https://karthikdesingh.com/#pubs) for publications before 2024.
 
 
 <br/>
