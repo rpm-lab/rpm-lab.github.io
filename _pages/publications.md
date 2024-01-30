@@ -15,14 +15,14 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='images/publications/slotGNN_Rezazadeh_et_al_arXiv_2023.png' width=250></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/slotGNN_Rezazadeh_et_al_arXiv_2023.png' width=250></center>
 		
 	</td>
 	<td>
 		Alireza Rezazadeh, Athreyi Badithela, <b>Karthik Desingh</b>, Changhyun Choi<br/>
 		<i>"SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics,"</i><br/>
 		<b>Accepted ICRA 2024.</b><br/>
-		[<a href='assets/bibs/rezazadeh2023SlotGNNarxiv'>Bibtex</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/rezazadeh2023SlotGNNarxiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2310.04617.pdf'>Arxiv</a>] &nbsp;
 		[<a href='https://www.youtube.com/watch?v=0fZBY5bMh3Q'>Video</a>] &nbsp;
 		[<a href='https://www.alireza.page/slot-gnn'>Project page</a>] &nbsp;
@@ -33,14 +33,14 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='images/publications/geom_peg_Ku_et_al_arXiv_2023.jpeg' width=250></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/geom_peg_Ku_et_al_arXiv_2023.jpeg' width=250></center>
 		
 	</td>
 	<td>
 		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, <b>Karthik Desingh</b><br/>
 		<i>"Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning,"</i><br/>
 		<b>Accepted ICRA 2024.</b><br/>
-		[<a href='assets/bibs/ku2023GeomPegarxiv'>Bibtex</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/ku2023GeomPegarxiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2310.09943.pdf'>Arxiv</a>] &nbsp;
 		[<a href='https://www.youtube.com/watch?v=3e5QKCdmb7Q'>Video</a>] &nbsp;
 		[<a href='https://sites.google.com/view/geometric-peg-in-hole/home'>Project page</a>] &nbsp;
