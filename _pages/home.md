@@ -36,7 +36,10 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/HachiTeamPic.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_Hachi_Scholars_Walk.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
