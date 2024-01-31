@@ -1,14 +1,19 @@
 
-    
-- name: Ryan Roche
-  photo: ryanroche.jpg
-  info: UG student in CS&E (Spot robot crew, summer 23')
-  email: roche189@umn.edu
+- name: Miles Priebe
+  photo: milespriebe.jpeg
+  info: MS student in Robotics (capstone project)
+  email: prieb038@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
-  education2:
-  education3:
-  education4: 
+  education2: 
+
+- name: Aaron Fernandes
+  photo: aaronfernandes.jpeg
+  info: MS student in Robotics (capstone project)
+  email: ferna437@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
   
 - name: Rhett Olson
   photo: rhettolson.jpg

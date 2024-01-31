@@ -25,22 +25,6 @@
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
-
-- name: Miles Priebe
-  photo: milespriebe.jpeg
-  info: MS student in Robotics (capstone project)
-  email: prieb038@umn.edu
-  number_educ: 0
-  education1: Robotics, Perception, Manipulation
-  education2: 
-
-- name: Aaron Fernandes
-  photo: aaronfernandes.jpeg
-  info: MS student in Robotics (capstone project)
-  email: ferna437@umn.edu
-  number_educ: 0
-  education1: Robotics, Perception, Manipulation
-  education2: 
   
 - name: Nirmal Raj
   photo: nirmalraj.jpeg
@@ -76,7 +60,7 @@
 
 - name: Sahith Reddy Chada
   photo: sahithreddy.jpeg
-  info: MS student in Robotics (directed research)
+  info: MS student in Robotics (directed research, capstone)
   email: chada022@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -102,6 +86,25 @@
   education3:
   education4:  
 
+- name: Ryan Roche
+  photo: ryanroche.jpg
+  info: UG student in CS&E (Spot robot crew, summer 23')
+  email: roche189@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Mason Hawver
+  photo: ryanroche.jpg
+  info: UG student in CS&E (researcher)
+  email: hawve005@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:   
 
 # - name: Thijs van den Munckhof
 #   photo: rock.jpg
