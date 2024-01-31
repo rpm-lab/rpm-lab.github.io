@@ -12,8 +12,16 @@
 
 - name: Thomas Kaminsky
   photo: thomaskaminsky.jpeg
-  info: UG student in Math & Stats at Harvard University (2023-)
+  info: UG student in Math & Stats at Harvard University (2023-present)
   email: tkaminsky@college.harvard.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
+- name: JangHyeon Lee
+  photo: janghyeon.jpeg
+  info: MS student at Simon Fraser University (2023-present)
+  email: jla465@sfu.ca
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2: 
