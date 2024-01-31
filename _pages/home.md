@@ -38,9 +38,6 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 5" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/LanguageRefer.jpeg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
