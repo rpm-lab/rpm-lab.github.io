@@ -8,7 +8,7 @@ permalink: /
 
 Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab at the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/).
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -17,6 +17,8 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
         <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
@@ -39,7 +41,10 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_Hachi_Scholars_Walk.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Zeus_teaser_pic.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
