@@ -19,7 +19,7 @@ permalink: /publications/
 		
 	</td>
 	<td>
-		Alireza Rezazadeh, Athreyi Badithela, <b>Karthik Desingh</b>, Changhyun Choi<br/>
+		Alireza Rezazadeh, Athreyi Badithela, Karthik Desingh, Changhyun Choi<br/>
 		<i>"SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics,"</i><br/>
 		<b>Accepted ICRA 2024.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/rezazadeh2023SlotGNNarxiv'>Bibtex</a>] &nbsp;
@@ -37,7 +37,7 @@ permalink: /publications/
 		
 	</td>
 	<td>
-		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, <b>Karthik Desingh</b><br/>
+		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, Karthik Desingh<br/>
 		<i>"Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning,"</i><br/>
 		<b>Accepted ICRA 2024.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/ku2023GeomPegarxiv'>Bibtex</a>] &nbsp;
