@@ -83,7 +83,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -130,7 +130,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -249,7 +249,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -270,7 +270,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
