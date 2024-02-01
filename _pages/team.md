@@ -18,7 +18,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -73,7 +73,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -83,7 +83,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -130,7 +130,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -140,7 +140,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -184,7 +184,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -194,7 +194,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.external_collaborators %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -238,7 +238,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -249,7 +249,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -270,7 +270,7 @@ permalink: /team/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
