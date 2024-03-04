@@ -6,12 +6,26 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-## Publications
-
 ### 2024
 
 <table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
+
+<tr>
+	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/talk-through-it.gif' width=250></center>
+		
+	</td>
+	<td>
+		Carl Winge, Adam Imdieke, Bahaa Aldeeb, Dongyeop Kang, Karthik Desingh<br/>
+		<i>"Talk Through It: End User Directed Manipulation Learning,"</i><br/>
+		<b>ArXiv 2024.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/winge2024TTITarxiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2402.12509.pdf'>Arxiv</a>] &nbsp;
+		[<a href='https://www.youtube.com/watch?v=j_FHSDrw6dM'>Video</a>] &nbsp;
+		[<a href='https://talk-through-it.github.io/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
 
 <tr>
 	<td>
