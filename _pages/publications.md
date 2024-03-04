@@ -12,7 +12,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/talk-through-it.gif' width=250></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/talk-through-it.gif' width=300></center>
 		
 	</td>
 	<td>
@@ -29,7 +29,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/slotGNN_Rezazadeh_et_al_arXiv_2023.png' width=250></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/slotGNN_Rezazadeh_et_al_arXiv_2023.png' width=300></center>
 		
 	</td>
 	<td>
@@ -47,7 +47,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/geom_peg_Ku_et_al_arXiv_2023.jpeg' width=250></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/geom_peg_Ku_et_al_arXiv_2023.jpeg' width=300></center>
 		
 	</td>
 	<td>
