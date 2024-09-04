@@ -1,4 +1,62 @@
 
+- name: Michael Andrev
+  photo: michaelandrev.jpeg
+  info: MS student in Computer Science (directed research)
+  email: andr0821@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+
+- name: Sahith Reddy Chada
+  photo: sahithreddy.jpeg
+  info: MS student in Robotics (directed research, capstone)
+  email: chada022@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:  
+
+- name: Athreyi Badithela
+  photo: athreyibadithela.jpg
+  info: UG student in CS&E (researcher, UROP)
+  email: badit004@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Chahyon Ku
+  photo: chahyonku.jpeg
+  info: MS student in Robotics (thesis)
+  email: ku000045@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+
+- name: Carl Winge
+  photo: carlwinge.jpeg
+  info: MS student in Robotics (thesis)
+  email: winge134@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2: 
+  
+- name: Nirmal Raj
+  photo: nirmalraj.jpeg
+  info: MS student in Robotics (capstone project)
+  email: raj00033@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:   
+
+- name: Amarachi Nzeukwu
+  photo: amarachi.jpeg
+  info: MS student in Robotics (capstone project)
+  email: nzeuk001@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:   
+
 - name: Miles Priebe
   photo: milespriebe.jpeg
   info: MS student in Robotics (capstone project)
