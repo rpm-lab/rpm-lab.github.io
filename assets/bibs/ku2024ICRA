@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10610774,
+  author={Ku, Chahyon and Winge, Carl and Diaz, Ryan and Yuan, Wentao and Desingh, Karthik},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={831-837},
+  keywords={Visualization;Analytical models;Statistical analysis;Imitation learning;Robustness;Cognition;Task analysis},
+  doi={10.1109/ICRA57147.2024.10610774}}

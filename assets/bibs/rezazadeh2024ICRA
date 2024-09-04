@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10611588,
+  author={Rezazadeh, Alireza and Badithela, Athreyi and Desingh, Karthik and Choi, Changhyun},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={17508-17514},
+  keywords={Visualization;Adaptation models;Accuracy;Predictive models;Cognition;Task analysis;Robots},
+  doi={10.1109/ICRA57147.2024.10611588}}

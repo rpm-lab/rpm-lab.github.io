@@ -85,7 +85,7 @@ In addition to researching on some of the most compelling problems in robotics, 
 -->
 
 ### Master's research positions ([apply here](https://forms.gle/G3wX4ty8zEZsDfJTA))
-**We are currently full in capacity for the Fall 2023 semester. However, we encourage you to fill the form in case an opportunity opens up.**
+**We are currently full in capacity for the Fall 2024 semester. However, we encourage you to fill the form in case an opportunity opens up.**
 If you are a Master's student at the University of Minnesota and would like to gain research experience in the areas that RPM lab focuses on, please fill out this [google-form](https://forms.gle/G3wX4ty8zEZsDfJTA). We will reach out to you if we have a project that matches your skills. 
 Currently, we do not have funding for research assistantships for Master's students. We highly encourage students to apply either for a capstone project (1 semester duration) or a Master's thesis project (typically 1 year duration). We will consider directed research (1 semester duration) option in special cases.
 

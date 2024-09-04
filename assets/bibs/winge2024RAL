@@ -1,0 +1,10 @@
+@ARTICLE{10608414,
+  author={Winge, Carl and Imdieke, Adam and Aldeeb, Bahaa and Kang, Dongyeop and Desingh, Karthik},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Talk Through It: End User Directed Manipulation Learning}, 
+  year={2024},
+  volume={9},
+  number={9},
+  pages={8051-8058},
+  keywords={Robots;Task analysis;Production facilities;Training;Natural languages;Grippers;Cognition;Human-centered robotics;incremental learning;learning from demonstration},
+  doi={10.1109/LRA.2024.3433309}}

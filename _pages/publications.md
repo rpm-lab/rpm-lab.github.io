@@ -18,8 +18,9 @@ permalink: /publications/
 	<td>
 		Carl Winge, Adam Imdieke, Bahaa Aldeeb, Dongyeop Kang, Karthik Desingh<br/>
 		<i>"Talk Through It: End User Directed Manipulation Learning,"</i><br/>
-		<b>Accepted RA-L 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/winge2024TTITarxiv'>Bibtex</a>] &nbsp;
+		<b>RA-L 2024.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/winge2024RAL'>Bibtex</a>] &nbsp;
+		[<a href='https://ieeexplore.ieee.org/document/10608414'>IEEE</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2402.12509.pdf'>Arxiv</a>] &nbsp;
 		[<a href='https://www.youtube.com/watch?v=j_FHSDrw6dM'>Video</a>] &nbsp;
 		[<a href='https://talk-through-it.github.io/'>Project page</a>] &nbsp;
@@ -36,7 +37,8 @@ permalink: /publications/
 		Alireza Rezazadeh, Athreyi Badithela, Karthik Desingh, Changhyun Choi<br/>
 		<i>"SlotGNN: Unsupervised Discovery of Multi-Object Representations and Visual Dynamics,"</i><br/>
 		<b>ICRA 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/rezazadeh2023SlotGNNarxiv'>Bibtex</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/rezazadeh2024ICRA'>Bibtex</a>] &nbsp;
+		[<a href='https://ieeexplore.ieee.org/abstract/document/10611588'>IEEE</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2310.04617.pdf'>Arxiv</a>] &nbsp;
 		[<a href='https://www.youtube.com/watch?v=0fZBY5bMh3Q'>Video</a>] &nbsp;
 		[<a href='https://www.alireza.page/slot-gnn'>Project page</a>] &nbsp;
@@ -54,7 +56,8 @@ permalink: /publications/
 		Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, Karthik Desingh<br/>
 		<i>"Evaluating Robustness of Visual Representations for Object Assembly Task Requiring Spatio-Geometrical Reasoning,"</i><br/>
 		<b>ICRA 2024.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/ku2023GeomPegarxiv'>Bibtex</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/ku2024ICRA'>Bibtex</a>] &nbsp;
+		[<a href='https://ieeexplore.ieee.org/abstract/document/10610774'>IEEE</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2310.09943.pdf'>Arxiv</a>] &nbsp;
 		[<a href='https://www.youtube.com/watch?v=3e5QKCdmb7Q'>Video</a>] &nbsp;
 		[<a href='https://sites.google.com/view/geometric-peg-in-hole/home'>Project page</a>] &nbsp;
