@@ -12,6 +12,23 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_arXiv_2024.png' width=300></center>
+		
+	</td>
+	<td>
+		Ryan Diaz, Adam Imdieke, Vivek Veeriah, Karthik Desingh<br/>
+		<i>"AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks,"</i><br/>
+		<b>under review.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
+		[<a href='https://youtu.be/UTA7sefgs2o?feature=shared'>Video</a>] &nbsp;
+		[<a href='https://rpm-lab-umn.github.io/auginsert/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/talk-through-it.gif' width=300></center>
 		
 	</td>
