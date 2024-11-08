@@ -12,6 +12,23 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/superq_grasp_Tu_et_al_arXiv_2024.gif' width=300></center>
+		
+	</td>
+	<td>
+		Xun Tu, Karthik Desingh<br/>
+		<i>"SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation,"</i><br/>
+		<b>under review.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2411.04386v1'>Arxiv</a>] &nbsp;
+		[<a href='https://youtu.be/CL_qik__k8c?feature=shared'>Video</a>] &nbsp;
+		[<a href='https://rpm-lab-umn.github.io/superq-grasp-webpage/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_arXiv_2024.png' width=300></center>
 		
 	</td>
