@@ -36,3 +36,21 @@
   number_educ: 0
   education1: Robotics, Perception, Manipulation, Learning
   education2: 
+
+- name: Adam Imdieke
+  photo: adam.jpg
+  info: Ph.D. student in CS
+  email: imdie022@umn.edu
+  web: 
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation, Learning
+  education2: 
+
+- name: Hanchen Cui
+  photo: hanchen.png
+  info: Ph.D. student in CS
+  email: cui00191@umn.edu
+  web: 
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation, Learning
+  education2: 

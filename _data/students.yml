@@ -9,13 +9,13 @@
 #  education4:
 
 
-- name: Adam Imdieke
-  photo: adamimdieke.jpeg
-  info: MS student in Robotics (thesis)
-  email: imdie022@umn.edu
-  number_educ: 0
-  education1: Robotics, Perception, Manipulation
-  education2:
+# - name: Adam Imdieke
+#   photo: adamimdieke.jpeg
+#   info: MS student in Robotics (thesis)
+#   email: imdie022@umn.edu
+#   number_educ: 0
+#   education1: Robotics, Perception, Manipulation
+#   education2:
   
 - name: Ryan Diaz
   photo: ryandiaz.jpg
@@ -39,13 +39,33 @@
 
 - name: Mason Hawver
   photo: mason.jpg
-  info: UG student in CS&E (researcher)
+  info: UG student in CS&E (UROP)
   email: hawve005@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:
   education3:
   education4:   
+
+- name: Adit Kadepurkar
+  photo: adit.jpg
+  info: UG student in CS&E (UROP)
+  email: kadep001@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Julian Byrne
+  photo: byrne.jpg
+  info: UG student in CS&E (researcher)
+  email: byrne296@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
 
 - name: Raj Surya
   photo: rajsurya.jpg
@@ -59,8 +79,28 @@
 
 - name: Nirshal Chandra Sekar
   photo: nirshal.jpg
-  info: MS student in Robotics (directed research)
+  info: MS student in Robotics (thesis)
   email: schand861@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Fidan Mahmudova 
+  photo: fidan.jpg
+  info: MS student in Robotics (thesis)
+  email: mahmu059@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Tzu-Hsien Lee
+  photo: tzu-hsien.jpg
+  info: MS student in Robotics (thesis)
+  email: lee04484@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:
@@ -71,6 +111,16 @@
   photo: mohityadav.jpg
   info: MS student in Robotics (capstone)
   email: yadav171@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Siddharth Senthilnathan
+  photo: senthilnathan.jpg
+  info: MS student in Robotics (directed research)
+  email: senth072@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:
