@@ -18,7 +18,7 @@ permalink: /publications/
 	<td>
 		Xun Tu, Karthik Desingh<br/>
 		<i>"SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation,"</i><br/>
-		<b>under review.</b><br/>
+		<b>ICRA 2025.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2411.04386v1'>Arxiv</a>] &nbsp;
 		[<a href='https://youtu.be/CL_qik__k8c?feature=shared'>Video</a>] &nbsp;
