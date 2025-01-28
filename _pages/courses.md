@@ -9,6 +9,7 @@ permalink: /courses/
 
 ## Courses
 
+- Spring 2025 - [CSCI5551 - Introduction to Intelligent Robotic Systems](https://rpm-lab.github.io/CSCI5551-Spr25/)
 - Fall 2024 - [CSCI5980 - Deep Rob: Deep Learning for Robot Manipulation](https://rpm-lab.github.io/CSCI5980-F24-DeepRob/)
 - Spring 2024 - [CSCI5551 - Introduction to Intelligent Robotic Systems](https://rpm-lab.github.io/CSCI5551-Spr24/)
 - Fall 2023 - [CSCI5551 - Introduction to Intelligent Robotic Systems](https://rpm-lab.github.io/CSCI5551-Fall23-S2/)
