@@ -9,10 +9,8 @@ permalink: /publications/
 
 
 
-
-<table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
-
 ### 2025
+<table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
 
 <tr>
 	<td>
@@ -44,6 +42,7 @@ permalink: /publications/
 </tr>
 
 ### 2024
+<table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
 
 <tr>
 	<td>
