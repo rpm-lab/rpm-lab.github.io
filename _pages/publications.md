@@ -6,9 +6,25 @@ sitemap: false
 permalink: /publications/
 ---
 
-### 2024
+
+
+
 
 <table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
+
+### 2025
+
+<tr>
+	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/superq_grasp_Tu_et_al_arXiv_2024.gif' width=300></center>
+		
+	</td>
+	<td>
+		Alireza Rezazadeh, Houjian Yu, Karthik Desingh, Changhyun Choi<br/>
+		<i>"InvSlotGNN: Unsupervised Discovery of Viewpoint Invariant Multi-Object Representations and Visual Dynamics,"</i><br/>
+		<b>Accepted Transactions on Robotics (T-RO) 2025.</b><br/>		
+	</td>
+</tr>
 
 <tr>
 	<td>
@@ -18,7 +34,7 @@ permalink: /publications/
 	<td>
 		Xun Tu, Karthik Desingh<br/>
 		<i>"SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation,"</i><br/>
-		<b>ICRA 2025.</b><br/>
+		<b>Accepted ICRA 2025.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2411.04386v1'>Arxiv</a>] &nbsp;
 		[<a href='https://youtu.be/CL_qik__k8c?feature=shared'>Video</a>] &nbsp;
@@ -26,6 +42,8 @@ permalink: /publications/
 		
 	</td>
 </tr>
+
+### 2024
 
 <tr>
 	<td>
