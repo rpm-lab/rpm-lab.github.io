@@ -16,7 +16,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/superq_grasp_Tu_et_al_arXiv_2024.gif' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/InvSlotGNN_rezazadeh_et_al_T-RO_2025.jpg' width=300></center>
 		
 	</td>
 	<td>
