@@ -40,6 +40,7 @@ permalink: /publications/
 		
 	</td>
 </tr>
+</table>
 
 ### 2024
 <table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
