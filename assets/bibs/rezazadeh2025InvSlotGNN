@@ -1,0 +1,10 @@
+@ARTICLE{10891822,
+  author={Rezazadeh, Alireza and Yu, Houjian and Desingh, Karthik and Choi, Changhyun},
+  journal={IEEE Transactions on Robotics}, 
+  title={InvSlotGNN: Unsupervised Discovery of Viewpoint Invariant Multi-Object Representations and Visual Dynamics}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Robots;Cameras;Visualization;Predictive models;Image reconstruction;Robot vision systems;Accuracy;Training;Data models;Planning},
+  doi={10.1109/TRO.2025.3543274}}
