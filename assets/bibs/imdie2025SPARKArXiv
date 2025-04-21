@@ -1,0 +1,9 @@
+@misc{imdieke2025sparkremotecosteffectiveremotebimanual,
+      title={SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation}, 
+      author={Adam Imdieke and Karthik Desingh},
+      year={2025},
+      eprint={2504.05488},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2504.05488}, 
+}
