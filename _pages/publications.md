@@ -14,6 +14,23 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_arXiv_2024.png' width=300></center>
+		
+	</td>
+	<td>
+		Ryan Diaz, Adam Imdieke, Vivek Veeriah, Karthik Desingh<br/>
+		<i>"AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks,"</i><br/>
+		<b>Accepted IROS 2025.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
+		[<a href='https://youtu.be/UTA7sefgs2o?feature=shared'>Video</a>] &nbsp;
+		[<a href='https://rpm-lab-umn.github.io/auginsert/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/InvSlotGNN_rezazadeh_et_al_T-RO_2025.jpg' width=300></center>
 		
 	</td>
@@ -35,7 +52,7 @@ permalink: /publications/
 	<td>
 		Xun Tu, Karthik Desingh<br/>
 		<i>"SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation,"</i><br/>
-		<b>Accepted ICRA 2025.</b><br/>
+		<b>ICRA 2025.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/tu2024SuperQGrasparXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2411.04386v1'>Arxiv</a>] &nbsp;
 		[<a href='https://youtu.be/CL_qik__k8c?feature=shared'>Video</a>] &nbsp;
@@ -66,23 +83,6 @@ permalink: /publications/
 
 ### 2024
 <table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
-
-<tr>
-	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_arXiv_2024.png' width=300></center>
-		
-	</td>
-	<td>
-		Ryan Diaz, Adam Imdieke, Vivek Veeriah, Karthik Desingh<br/>
-		<i>"AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks,"</i><br/>
-		<b>under review.</b><br/>
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
-		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
-		[<a href='https://youtu.be/UTA7sefgs2o?feature=shared'>Video</a>] &nbsp;
-		[<a href='https://rpm-lab-umn.github.io/auginsert/'>Project page</a>] &nbsp;
-		
-	</td>
-</tr>
 
 <tr>
 	<td>
