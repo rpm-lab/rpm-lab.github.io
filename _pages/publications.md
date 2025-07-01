@@ -14,7 +14,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_arXiv_2024.png' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_IROS_2025.gif' width=300></center>
 		
 	</td>
 	<td>
