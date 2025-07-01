@@ -63,13 +63,13 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/SPARK_imdieke_et_al_arxiv_2025.jpg' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/SPARK_GIFF_video.gif' width=300></center>
 		
 	</td>
 	<td>
 		Adam Imdieke, Karthik Desingh<br/>
 		<i>"SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation,"</i><br/>
-		<b>under review.</b><br/>
+		<b>arXiv 2025.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/imdie2025SPARKArXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/abs/2504.05488'>Arxiv</a>] &nbsp;
 		[<a href='https://drive.google.com/file/d/1FqyfgwR-OsEUo0W4oiINvupXU1Wq0MjE/view?t=4'>Video</a>] &nbsp;
