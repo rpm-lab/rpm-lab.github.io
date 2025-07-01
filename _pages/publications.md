@@ -31,7 +31,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/InvSlotGNN_rezazadeh_et_al_T-RO_2025.jpg' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/InvSlotGNN_TRO_2025.gif' width=300></center>
 		
 	</td>
 	<td>
