@@ -1,3 +1,63 @@
+- name: Raj Surya
+  photo: rajsurya.jpg
+  info: MS student in Robotics (capstone) -> Computer Vision Engineer at Topaz Lab
+  email: rajen064@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Nirshal Chandra Sekar
+  photo: nirshal.jpg
+  info: MS student in Robotics (thesis) -> Ph.D. University of Minnesota
+  email: schand861@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Fidan Mahmudova 
+  photo: fidan.jpg
+  info: MS student in Robotics (thesis)
+  email: mahmu059@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Ryan Diaz
+  photo: ryandiaz.jpg
+  info: UG student in CS&E (researcher, URS, UROP) -> Ph.D. Rice University
+  email: diaz0329@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:  
+
+- name: Ryan Roche
+  photo: ryanroche.jpg
+  info: UG student in CS&E (Spot robot crew, summer 23', UROP) -> Software Engineer at US Bank
+  email: roche189@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Mason Hawver
+  photo: mason.jpg
+  info: UG student in CS&E (UROP) -> RTX Software Engineer
+  email: hawve005@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
 - name: Alireza Rezazadeh
   photo: alireza.jpeg
   info: Ph.D. student in ECE (co-advised by Prof. Changhyun Choi) -> Accenture’s Center for Advanced AI
@@ -36,7 +96,7 @@
 
 - name: Sahith Reddy Chada
   photo: sahithreddy.jpeg
-  info: MS student in Robotics (directed research, capstone)
+  info: MS student in Robotics (capstone) -> Research Engineer at Honda Research Institute
   email: chada022@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -44,7 +104,7 @@
 
 - name: Athreyi Badithela
   photo: athreyibadithela.jpg
-  info: UG student in CS&E (researcher, UROP)
+  info: UG student in CS&E (researcher, UROP) -> Ph.D. University of Minnesota
   email: badit004@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -54,7 +114,7 @@
 
 - name: Chahyon Ku
   photo: chahyonku.jpeg
-  info: MS student in Robotics (thesis)
+  info: MS student in Robotics (thesis) -> Ph.D. University of Michigan
   email: ku000045@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -62,7 +122,7 @@
 
 - name: Carl Winge
   photo: carlwinge.jpeg
-  info: MS student in Robotics (thesis)
+  info: MS student in Robotics (thesis) -> Contract engineer
   email: winge134@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -70,7 +130,7 @@
   
 - name: Nirmal Raj
   photo: nirmalraj.jpeg
-  info: MS student in Robotics (capstone project)
+  info: MS student in Robotics (capstone) -> SDE at Amazon Web Services
   email: raj00033@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -78,7 +138,7 @@
 
 - name: Amarachi Nzeukwu
   photo: amarachi.jpeg
-  info: MS student in Robotics (capstone project)
+  info: MS student in Robotics (capstone) -> Data Platform Engineer at Voltaiq
   email: nzeuk001@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
@@ -86,7 +146,7 @@
 
 - name: Miles Priebe
   photo: milespriebe.jpeg
-  info: MS student in Robotics (capstone project)
+  info: MS student in Robotics (capstone project) -> Software Engineer at Merlin Labs
   email: prieb038@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
