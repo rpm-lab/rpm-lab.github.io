@@ -27,6 +27,16 @@
   education3:
   education4: 
 
+- name: Keerthan Kamala Krishnamoorthy
+  photo: keerthan.jpg
+  info: UG student in CS&E (UROP)
+  email: kamal085@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
 - name: Charles Parece
   photo: charles.jpg
   info: UG student (researcher)
