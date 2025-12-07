@@ -14,13 +14,30 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/SENT-Map-teaser.png' width=300></center>
+		
+	</td>
+	<td>
+		Raj Surya Rajendran Kathirvel, Zach Chavis, Stephen J. Guy, Karthik Desingh<br/>
+		<i>"SENT-Map: Semantically Enhanced Topological Maps with Foundation Models,"</i><br/>
+		<b>Presented in ICRA 2025: Workshop on Foundation Models and Neuro-Symbolic AI for Robotics.</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/raj2025SENTMaparXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2511.03165'>Arxiv</a>] &nbsp;
+		[<a href='https://youtu.be/Wz02Y0iGGU4?si=X55GurpH9w4_SxSP'>Video</a>] &nbsp;
+		[<a href='https://rpm-lab-umn.github.io/SENT_map/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/auginsert_Diaz_et_al_IROS_2025.gif' width=300></center>
 		
 	</td>
 	<td>
 		Ryan Diaz, Adam Imdieke, Vivek Veeriah, Karthik Desingh<br/>
 		<i>"AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks,"</i><br/>
-		<b>Accepted IROS 2025.</b><br/>
+		<b>IROS 2025.</b><br/>
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/diaz2024AugInsertarXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2410.14968'>Arxiv</a>] &nbsp;
 		[<a href='https://youtu.be/UTA7sefgs2o?feature=shared'>Video</a>] &nbsp;
