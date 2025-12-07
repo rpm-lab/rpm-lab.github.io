@@ -17,6 +17,56 @@
 #   education1: Robotics, Perception, Manipulation
 #   education2:
   
+- name: Ava Griffin
+  photo: ava.jpg
+  info: UG student (DFRACS program)
+  email: grif0695@umn.edu 
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Charles Parece
+  photo: charles.jpg
+  info: UG student (researcher)
+  email: parec020@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Adil Arya
+  photo: adil.jpg
+  info: UG student in CS&E
+  email: arya0033@umn.edu 
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Minghao Zou 
+  photo: minghao.jpg
+  info: UG student in CS&E (UROP)
+  email: zou00189@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
+- name: Pearl Jain
+  photo: pearl.jpg
+  info: UG student in CS&E (UROP)
+  email: jain0377@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4: 
+
 - name: Adit Kadepurkar
   photo: adit.jpg
   info: UG student in CS&E (UROP)
@@ -47,10 +97,10 @@
   education3:
   education4:
 
-- name: Mohit Yadav
-  photo: mohityadav.jpg
-  info: MS student in Robotics (capstone)
-  email: yadav171@umn.edu
+- name: Pranay Junare
+  photo: pranay.jpg
+  info: MS student in Robotics (thesis)
+  email: junar002@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:
@@ -61,6 +111,46 @@
   photo: senthilnathan.jpg
   info: MS student in Robotics (directed research)
   email: senth072@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Alex Berg
+  photo: alex.jpg
+  info: MS student in Robotics (directed research / capstone)
+  email: ber00221@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Nitish Venugopal Poojari
+  photo: nitish.jpg
+  info: MS student in Robotics (directed research / capstone)
+  email: pooja011@umn.edu 
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Sharva Khandagale
+  photo: sharva.jpg
+  info: MS student in Robotics (directed research / capstone)
+  email: khand137@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
+- name: Keara Berlin
+  photo: keara.jpg
+  info: MS student in Robotics (directed research)
+  email: kberlin@umn.edu
   number_educ: 0
   education1: Robotics, Perception, Manipulation
   education2:

@@ -8,6 +8,16 @@
   education3:
   education4:
 
+- name: Mohit Yadav
+  photo: mohityadav.jpg
+  info: MS student in Robotics (capstone)
+  email: yadav171@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
 - name: Nirshal Chandra Sekar
   photo: nirshal.jpg
   info: MS student in Robotics (thesis) -> Ph.D. University of Minnesota
