@@ -28,28 +28,31 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2024_RPM_Lab_photo.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2025_RPM_Lab_photo.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2024_RPM_Lab_photo.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_RPM_Lab_photo_1.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_RPM_Lab_photo_1.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_RPM_Lab_photo_2.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_RPM_Lab_photo_2.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Teampic.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Teampic.jpeg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/HachiTeamPic.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/HachiTeamPic.jpeg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_Hachi_Scholars_Walk.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2023_Hachi_Scholars_Walk.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Zeus_teaser_pic.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Zeus_teaser_pic.png" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/Robotspic.jpeg" alt="Slide 9" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
