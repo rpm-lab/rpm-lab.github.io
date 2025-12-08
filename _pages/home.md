@@ -30,7 +30,7 @@ Welcome to the **R**obotics: **P**erception and **M**anipulation (**RPM**) Lab a
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2025_RPM_Lab_photo.jpeg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpics/2024_RPM_Lab_photo.jpg" alt="Slide 2" />
         </div>
         <div class="item">
