@@ -14,6 +14,23 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Last_meter_nav_teaser_arXiv_2025.gif' width=300></center>
+		
+	</td>
+	<td>
+		Tzu-Hsien Lee, Fidan Mahmudova, Karthik Desingh<br/>
+		<i>"Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance,"</i><br/>
+		<b>arXiv 2025</b><br/>
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lee2025LastmeternavarXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2512.11173'>Arxiv</a>] &nbsp;
+		<!-- [<a href='https://youtu.be/Wz02Y0iGGU4?si=X55GurpH9w4_SxSP'>Video</a>] &nbsp; -->
+		[<a href='https://rpm-lab-umn.github.io/category-level-last-meter-nav/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/SENT-Map-teaser.png' width=300></center>
 		
 	</td>
