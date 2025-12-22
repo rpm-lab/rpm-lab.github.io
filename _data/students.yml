@@ -137,6 +137,16 @@
   education3:
   education4:
 
+- name: Zhuoli Xie
+  photo: zhuoli.jpg
+  info: MS student in Robotics (research volunteer)
+  email: xie00507@umn.edu
+  number_educ: 0
+  education1: Robotics, Perception, Manipulation
+  education2:
+  education3:
+  education4:
+
 - name: Alex Berg
   photo: alex.jpg
   info: MS student in Robotics (directed research / capstone)
