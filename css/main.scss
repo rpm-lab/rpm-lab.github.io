@@ -107,6 +107,39 @@ firstp {
 .simple-list { padding-left: 0; list-style: none; }
 .simple-list li { margin-bottom: 6px; }
 
+
+/* Force single column even if theme floats list items */
+.onecol-inline,
+.onecol-inline li {
+  float: none !important;
+  width: 100% !important;
+}
+
+/* Name + info on the same line */
+.onecol-inline li {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+/* Optional styling */
+.onecol-inline .student-name {
+  font-weight: 700;
+}
+
+.onecol-inline .student-info {
+  font-style: italic;
+  opacity: 0.85;
+}
+
+/* Allow wrapping nicely on small screens */
+.onecol-inline .student-info {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+
 // .team-grid > [class*="col-"] { margin-bottom: 24px; }
 
 // /* Flex layout for photo cards */
