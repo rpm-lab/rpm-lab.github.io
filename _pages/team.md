@@ -67,15 +67,26 @@ permalink: /team/
 </div>
 
 
-### Master and Bachelor Students
+<!-- ### Master and Bachelor Students
 <ul class="simple-list">
 {% for member in site.data.students %}
   <li>
     <strong>{{ member.name }}</strong>{% if member.info %} — {{ member.info }}{% endif %}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 
+### Master and Bachelor Students
+<ul class="simple-list onecol-inline">
+{% for member in site.data.students %}
+  <li>
+    <span class="student-name">{{ member.name }}</span>
+    {% if member.info %}
+      <span class="student-info">{{ member.info | strip_html }}</span>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
 
 ### External Collaborators
 <ul class="simple-list">
