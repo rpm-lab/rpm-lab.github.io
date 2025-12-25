@@ -1,6 +1,5 @@
 ---
 ---
-    
 @import "bootstrap";
 
 img { margin-bottom: 24px; 
@@ -138,37 +137,3 @@ firstp {
   flex: 1 1 auto;
   min-width: 0;
 }
-
-
-// .team-grid > [class*="col-"] { margin-bottom: 24px; }
-
-// /* Flex layout for photo cards */
-// .team-card {
-//   display: flex;
-//   align-items: flex-start;
-//   gap: 14px;
-// }
-
-// .team-photo {
-//   width: 110px;
-//   height: 110px;
-//   border-radius: 8px;
-//   object-fit: cover;
-//   flex-shrink: 0;
-// }
-
-// .team-body { flex: 1; min-width: 0; }
-// .team-name { margin: 0 0 4px; }
-// .team-role, .team-link, .team-edu { margin: 0 0 6px; }
-
-// .student-list {
-//   list-style-type: none;
-//   padding-left: 0;
-// }
-// .student-list li {
-//   margin-bottom: 8px;
-// }
-// .student-list ul {
-//   margin-top: 4px;
-//   margin-bottom: 4px;
-// }
