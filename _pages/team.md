@@ -71,8 +71,7 @@ permalink: /team/
 <ul class="simple-list">
 {% for member in site.data.students %}
   <li>
-    <strong>{{ member.name }}</strong>
-    {% if member.info %} — {{ member.info }}{% endif %}
+    <strong>{{ member.name }}</strong>{% if member.info %} — {{ member.info }}{% endif %}
   </li>
 {% endfor %}
 </ul>
