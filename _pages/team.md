@@ -1,6 +1,6 @@
 ---
 title: "RPM Lab - Team"
-layout: gridlay
+layout: team
 excerpt: "RPM Lab: Team members"
 sitemap: false
 permalink: /team/
@@ -17,7 +17,7 @@ permalink: /team/
 ### Director
 <div class="row team-grid">
 {% for member in site.data.team_members %}
-  <div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="col-xs-12 col-sm-12 col-md-4">
     <div class="team-card">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
            alt="{{ member.name }}" class="team-photo" />
@@ -44,7 +44,7 @@ permalink: /team/
 ### Ph.D. Students
 <div class="row team-grid">
 {% for member in site.data.phd_students %}
-  <div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="col-xs-12 col-sm-12 col-md-4">
     <div class="team-card">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
            alt="{{ member.name }}" class="team-photo" />
