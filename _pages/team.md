@@ -19,14 +19,13 @@ permalink: /team/
 {% for member in site.data.team_members %}
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="team-card">
-      {% if member.photo %}
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
-           alt="{{ member.name }}" class="team-photo">
-      {% endif %}
+           alt="{{ member.name }}" class="team-photo" />
       <div class="team-body">
         <h4 class="team-name">{{ member.name }}</h4>
         {% if member.info %}<p class="team-role"><em>{{ member.info }}</em></p>{% endif %}
-        {% if member.web %}<p><a href="{{ member.web }}" target="_blank">Home page</a></p>{% endif %}
+        {% if member.web %}<p class="team-link"><a href="{{ member.web }}">Home page</a></p>{% endif %}
+
         {% if member.number_educ %}
         <ul class="team-edu">
           {% for i in (1..member.number_educ) %}
@@ -47,14 +46,13 @@ permalink: /team/
 {% for member in site.data.phd_students %}
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="team-card">
-      {% if member.photo %}
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
-           alt="{{ member.name }}" class="team-photo">
-      {% endif %}
+           alt="{{ member.name }}" class="team-photo" />
       <div class="team-body">
         <h4 class="team-name">{{ member.name }}</h4>
         {% if member.info %}<p class="team-role"><em>{{ member.info }}</em></p>{% endif %}
-        {% if member.web %}<p><a href="{{ member.web }}" target="_blank">Home page</a></p>{% endif %}
+        {% if member.web %}<p class="team-link"><a href="{{ member.web }}">Home page</a></p>{% endif %}
+
         {% if member.number_educ %}
         <ul class="team-edu">
           {% for i in (1..member.number_educ) %}
@@ -70,41 +68,28 @@ permalink: /team/
 
 
 ### Master and Bachelor Students
-<ul class="student-list">
+<ul class="simple-list">
 {% for member in site.data.students %}
   <li>
     <strong>{{ member.name }}</strong>
     {% if member.info %} — {{ member.info }}{% endif %}
-    {% if member.number_educ %}
-      <ul>
-        {% for i in (1..member.number_educ) %}
-          <li>{{ member['education' | append: i] }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </li>
 {% endfor %}
 </ul>
 
 
 ### External Collaborators
-<ul class="student-list">
+<ul class="simple-list">
 {% for member in site.data.external_collaborators %}
-  <li>
-    <strong>{{ member.name }}</strong>
-    {% if member.info %} — {{ member.info }}{% endif %}
-  </li>
+  <li><strong>{{ member.name }}</strong>{% if member.info %} — {{ member.info }}{% endif %}</li>
 {% endfor %}
 </ul>
 
 
 
-### Alumni
-<ul class="student-list">
+## Alumni
+<ul class="simple-list">
 {% for member in site.data.alumni_members %}
-  <li>
-    <strong>{{ member.name }}</strong>
-    {% if member.info %} — {{ member.info }}{% endif %}
-  </li>
+  <li><strong>{{ member.name }}</strong>{% if member.info %} — {{ member.info }}{% endif %}</li>
 {% endfor %}
 </ul>
