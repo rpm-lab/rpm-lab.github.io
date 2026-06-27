@@ -47,7 +47,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Berg_et_al_dmd_2026.jpg' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/berg_et_al_dmd_2026.jpg' width=300></center>
 		
 	</td>
 	<td>
@@ -61,7 +61,7 @@ permalink: /publications/
 
 <tr>
 	<td>
-		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Strokenav2D_colored_cow.gif' width=300></center>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Strokenav2D_coloured_cow.gif' width=300></center>
 		
 	</td>
 	<td>
