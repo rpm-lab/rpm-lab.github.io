@@ -1,0 +1,14 @@
+
+@proceedings{10.1115/DMD2026-1063,
+    author = {Poojari, Nitish and Khandagale, Sharva and Berlin, Keara and Berg, Alex and Imdieke, Adam and Moen, Sean L. and Grande, Andrew and Kowalewski, Timothy M. and Desingh, Karthik},
+    title = {Strokenav2D: A Skeleton Based Dataset for Cerebrovascular Imitation Learning},
+    volume = {2026 Design of Medical Devices Conference},
+    series = {Medical Devices},
+    pages = {V001T07A003},
+    year = {2026},
+    month = {04},
+    abstract = {Autonomous navigation of endovascular tools has gained in-creasing attention for its potential to improve the speed and consistency of ischemic stroke treatment, yet progress is hindered by the lack of open datasets that pair real cerebrovascular anatomy with the dense supervision needed for learning-based navigation. We present StrokeNav2D, a large 2D dataset derived from patient CT angiography that enables imitation-learning approaches for guidewire and catheter navigation. From thresholded vascular regions-of-interest, we construct cleaned surface meshes, isolate 26 approximately planar arterial subsections, and render each from a fixed virtual camera. The resulting images are thresholded into binary masks, skeletonized and used to compute shortest-path trajectories between random start–goal pairs, which are converted into 412,905 state–action samples representing incremental catheter tip motions. Although simplified to two dimensions, the dataset realistically preserves branching structures and geometric variability of the vasculature, providing a lightweight testbed for developing and benchmarking learning-based cerebrovascular navigation methods.},
+    doi = {10.1115/DMD2026-1063},
+    url = {https://doi.org/10.1115/DMD2026-1063},
+    eprint = {https://asmedigitalcollection.asme.org/BIOMED/proceedings-pdf/DMD2026/89435/V001T07A003/7618501/v001t07a003-dmd2026-1063.pdf},
+}

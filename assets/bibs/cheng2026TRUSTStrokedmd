@@ -1,0 +1,16 @@
+
+@proceedings{10.1115/DMD2026-1079,
+    author = {Cheng, Pin-Hao and Narkhede, Ronak and Rajala, Matt and Schultz, Jared and Harbinson, Nathan and Fisher, Samuel and Poojari, Nitish and Khandagale, Sharva and Berg, Alex and Berlin, Keara and Imdieke, Adam and Feldkamp, Michael and Frushour, Scott and Patil, Kaustubh and Ashby, Mark and Peine, William and Moen, Sean L. and Grande, Andrew and Desingh, Karthik and Kowalewski, Timothy M.},
+    title = {Towards Remote Thrombectomy with Telerobotically-Driven Guidewires},
+    volume = {2026 Design of Medical Devices Conference},
+    series = {Medical Devices},
+    pages = {V001T07A005},
+    year = {2026},
+    month = {04},
+    abstract = {We present the design, benchtop validation, and network latency characteristics of a minimal 2-degree-of-freedom (2-DOF) telerobotic system for remote control of endovascular guidewires or catheters for remote neurovascular interventions. Median roundtrip latencies of 31, 55, and 268 ms were recorded for local, residential (approximately 50 km), and cellular internet settings. This work serves as a feasibility study, demonstrating that consumer-grade interfaces like smartphones and tablets may achieve the latency and precision required for remote endovascular procedures. The resulting minimal platform may be used for technical-skills training and product development in controlling guidewires or catheters remotely.},
+    doi = {10.1115/DMD2026-1079},
+    url = {https://doi.org/10.1115/DMD2026-1079},
+    eprint = {https://asmedigitalcollection.asme.org/BIOMED/proceedings-pdf/DMD2026/89435/V001T07A005/7618483/v001t07a005-dmd2026-1079.pdf},
+}
+
+

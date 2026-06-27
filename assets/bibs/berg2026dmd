@@ -1,0 +1,16 @@
+
+@proceedings{10.1115/DMD2026-1054,
+    author = {Berg, Alex and Khandagale, Sharva and Imdieke, Adam and Kowalewski, Timothy M. and Grande, Andrew and Moen, Sean L. and Desingh, Karthik},
+    title = {Vasculature Discretization and Search Space Simplification for Automating Catheter Navigation},
+    volume = {2026 Design of Medical Devices Conference},
+    series = {Medical Devices},
+    pages = {V001T02A007},
+    year = {2026},
+    month = {04},
+    abstract = {While endovascular procedures such as mechanical thrombectomy (MT) are standard for treating acute vascular pathologies, their success is limited by a scarcity of trained professionals. Robotic systems provide a solution to this problem by reducing the workload placed on medical professionals. This paper presents a computational framework to support such robotic systems by enabling automated path planning given patient-specific 3D vasculature models. We propose a pipeline for converting 3D anatomical meshes into navigable graph-based roadmaps via voxelization, skeletonization, and graph reduction. Preliminary results demonstrate the efficiency of this technique, which generates discrete vasculature roadmaps in under one second of computation time on a consumer desktop. Each roadmap is capable of planning a path between any two points in the vasculature in less than 20 ms.},
+    doi = {10.1115/DMD2026-1054},
+    url = {https://doi.org/10.1115/DMD2026-1054},
+    eprint = {https://asmedigitalcollection.asme.org/BIOMED/proceedings-pdf/DMD2026/89435/V001T02A007/7618541/v001t02a007-dmd2026-1054.pdf},
+}
+
+

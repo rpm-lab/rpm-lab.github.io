@@ -1,0 +1,10 @@
+@ARTICLE{11578303,
+  author={Lee, Tzu-Hsien and Mahmudova, Fidan and Desingh, Karthik},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Navigation;Robots;Meters;Modeling;Training;Visualization;Current;Learning (artificial intelligence);Grounding;Trajectory;Imitation Learning;Vision-Based Navigation;Mobile Manipulation},
+  doi={10.1109/LRA.2026.3707352}}
