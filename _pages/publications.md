@@ -9,7 +9,7 @@ permalink: /publications/
 
 
 
-### 2025
+### 2026
 <table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
 
 <tr>
@@ -72,6 +72,12 @@ permalink: /publications/
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/poojari2026dmd'>Bibtex</a>] &nbsp;
 	</td>
 </tr>
+
+</table>
+
+### 2025
+<table cellspacing=10 style='font-family:"Arial", Courier, monospace; font-size:15px'>
+
 
 <tr>
 	<td>
