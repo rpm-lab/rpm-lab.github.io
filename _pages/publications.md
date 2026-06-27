@@ -20,7 +20,7 @@ permalink: /publications/
 	<td>
 		Tzu-Hsien Lee, Fidan Mahmudova, Karthik Desingh<br/>
 		<i>"Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance,"</i><br/>
-		<b>RA-L 2026</b><br/>
+		<b>RA-L 2026.</b><br/>
 		[<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lee2026LastmeterRA-L'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2512.11173'>Arxiv</a>] &nbsp;
@@ -38,7 +38,7 @@ permalink: /publications/
 	<td>
 		Pin-Hao Cheng, Ronak Narkhede, Matt Rajala, Jared Schultz, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski<br/>
 		<i>"Towards Remote Thrombectomy with Telerobotically-Driven Guidewires,"</i><br/>
-		<b>Design of Medical Devices Conference 2026</b><br/>
+		<b>Design of Medical Devices Conference 2026.</b><br/>
 		[<a href='https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2026/89435/V001T07A005/1233466'>ASME paper</a>] &nbsp;
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/cheng2026TRUSTStrokedmd'>Bibtex</a>] &nbsp;
 		
@@ -53,7 +53,7 @@ permalink: /publications/
 	<td>
 		Alex Berg, Sharva Khandagale, Adam Imdieke, Timothy M. Kowalewski, Andrew Grande, Sean L. Moen, Karthik Desingh<br/>
 		<i>"Vasculature Discretization and Search Space Simplification for Automating Catheter Navigation,"</i><br/>
-		<b>Design of Medical Devices Conference 2026</b><br/>
+		<b>Design of Medical Devices Conference 2026.</b><br/>
 		[<a href='https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2026/89435/V001T02A007/1233449'>ASME paper</a>] &nbsp;
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/berg2026dmd'>Bibtex</a>] &nbsp;		
 	</td>
@@ -67,7 +67,7 @@ permalink: /publications/
 	<td>
 		Nitish Poojari, Sharva Khandagale, Keara Berlin, Alex Berg, Adam Imdieke, Sean L. Moen, Andrew Grande, Timothy M. Kowalewski, Karthik Desingh<br/>
 		<i>"Strokenav2D: A Skeleton Based Dataset for Cerebrovascular Imitation Learning,"</i><br/>
-		<b>Design of Medical Devices Conference 2026</b><br/>
+		<b>Design of Medical Devices Conference 2026.</b><br/>
 		[<a href='https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2026/89435/V001T07A003/1233453'>ASME paper</a>] &nbsp;
 		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/poojari2026dmd'>Bibtex</a>] &nbsp;
 	</td>
