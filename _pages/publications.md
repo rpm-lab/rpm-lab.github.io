@@ -14,6 +14,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Cui_et_al_dreamsteer_arXiv_2026.png' width=300></center>
+		
+	</td>
+	<td>
+		Hanchen Cui, Sergio Arnaud, Arjun Majumdar, Daniel Dugas, Elie Aljalbout, Karthik Desingh, Krishna Murthy Jatavallabhula, Franziska Meier<br/>
+		<i>"DREAMSTEER: Latent World Models Can Steer VLA Policies During Deployment Without Any Finetuning,"</i><br/>
+		<b>arXiv 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/lee2026LastmeterRA-L'>Bibtex</a>] &nbsp; -->
+		[<a href='https://arxiv.org/pdf/2607.02865'>Arxiv</a>] &nbsp;
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		[<a href='https://dream-steer.github.io/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Last_meter_nav_teaser_arXiv_2025.gif' width=300></center>
 		
 	</td>
