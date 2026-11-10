@@ -14,6 +14,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Liao_et_al_arXiv_2026.png' width=300></center>
+		
+	</td>
+	<td>
+		Andrew Liao, Hanchen Cui, Karthik Desingh, Aryan Deshwal<br/>
+		<i>"Active Real-World Factor-Based Evaluation for Generalist Robot Policies,"</i><br/>
+		<b>arXiv 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liao2026activetestingarXiv'>Bibtex</a>] &nbsp; -->
+		[<a href='https://arxiv.org/pdf/2607.14439'>Arxiv</a>] &nbsp;
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		<!-- [<a href='https://dream-steer.github.io/'>Project page</a>] &nbsp; -->
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Cui_et_al_dreamsteer_arXiv_2026.png' width=300></center>
 		
 	</td>
