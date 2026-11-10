@@ -21,8 +21,8 @@ permalink: /publications/
 		Andrew Liao, Hanchen Cui, Karthik Desingh, Aryan Deshwal<br/>
 		<i>"Active Real-World Factor-Based Evaluation for Generalist Robot Policies,"</i><br/>
 		<b>arXiv 2026.</b><br/>
-		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;
-		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liao2026activetestingarXiv'>Bibtex</a>] &nbsp; -->
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;  -->
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liao2026activetestingarXiv'>Bibtex</a>] &nbsp;
 		[<a href='https://arxiv.org/pdf/2607.14439'>Arxiv</a>] &nbsp;
 		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
 		<!-- [<a href='https://dream-steer.github.io/'>Project page</a>] &nbsp; -->
