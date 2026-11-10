@@ -14,6 +14,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Song_et_al_CrowdMAPS_CoRL2026.png' width=300></center>
+		
+	</td>
+	<td>
+		Yilong Song, Harshvardhan Chandirasekar, Karthik Desingh, Chen Zhu-Tian<br/>
+		<i>"CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Robot Imitation Learning,"</i><br/>
+		<b>CoRL 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;  -->
+		<!-- [<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liu2026arXivPILOT'>Bibtex</a>] &nbsp; -->
+		<!-- [<a href='https://arxiv.org/pdf/2610.14335'>Arxiv</a>] &nbsp; -->
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		[<a href='https://yilongsong.github.io/CrowdMAPS/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Cui_et_al_PILOT_arXiv_2026.svg' width=300></center>
 		
 	</td>
