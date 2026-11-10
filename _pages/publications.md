@@ -14,6 +14,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Cui_et_al_PILOT_arXiv_2026.svg' width=300></center>
+		
+	</td>
+	<td>
+		Yang Liu, Hanchen Cui, Karthik Desingh<br/>
+		<i>"PILOT: Guiding Long-Horizon World-Model Planning for Robot Manipulation with Visual Subgoals and Policy Priors,"</i><br/>
+		<b>arXiv 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;  -->
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liu2026arXivPILOT'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2610.14335'>Arxiv</a>] &nbsp;
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		[<a href='https://pilot-planner.github.io/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Liao_et_al_arXiv_2026.png' width=300></center>
 		
 	</td>
