@@ -14,6 +14,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Tu_et_al_GraspTAGS_arXiv_2026.png' width=300></center>
+		
+	</td>
+	<td>
+		Xun Tu, Minghao Zou, Karthik Desingh<br/>
+		<i>"Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation,"</i><br/>
+		<b>arXiv 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;  -->
+		[<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/tu2026GraspTAGSarXiv'>Bibtex</a>] &nbsp;
+		[<a href='https://arxiv.org/pdf/2611.09864'>Arxiv</a>] &nbsp;
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		[<a href='https://rpm-lab-umn.github.io/Grasp-TAGS-web-page/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Song_et_al_CrowdMAPS_CoRL2026.png' width=300></center>
 		
 	</td>
