@@ -50,6 +50,24 @@ permalink: /publications/
 
 <tr>
 	<td>
+		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Imdieke_et_al_IROS2026-tailorable-force-sensing-skins.gif' width=300></center>
+		
+	</td>
+	<td>
+		Adam Imdieke, Heidi Woelfle, Brad Holschuh and Karthik Desingh<br/>
+		<i>"Tailorable Force-Sensing Skins for Manipulators Using Textile and Additive Manufacturing,"</i><br/>
+		<b>IROS 2026.</b><br/>
+		<!-- [<a href='https://ieeexplore.ieee.org/document/11578303'>IEEE</a>] &nbsp;  -->
+		<!-- [<a href='{{ site.url }}{{ site.baseurl }}/assets/bibs/liu2026arXivPILOT'>Bibtex</a>] &nbsp; -->
+		<!-- [<a href='https://arxiv.org/pdf/2610.14335'>Arxiv</a>] &nbsp; -->
+		<!-- [<a href='https://youtu.be/DXwIbLElI-k'>Video</a>] &nbsp; -->
+		[<a href='https://rpm-lab-umn.github.io/TactileSkin/'>Project page</a>] &nbsp;
+		
+	</td>
+</tr>
+
+<tr>
+	<td>
 		<center><img src='{{ site.url }}{{ site.baseurl }}/images/publications/Cui_et_al_PILOT_arXiv_2026.svg' width=300></center>
 		
 	</td>
